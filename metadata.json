@@ -1,0 +1,5 @@
+{
+  "name": "妙笔生花 - AI 智能写作助手",
+  "description": "基于 Google Gemini 的智能写作辅助工具，提供文章纠错、润色、评分及爆款标题分析功能。",
+  "requestFramePermissions": []
+}
