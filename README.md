@@ -76,13 +76,13 @@ docker build -t ai-writing-assistant .
 
 ```bash
 # 方式一：注入环境变量
-docker run -d -p 3000:80 \
+docker run -d -p 3000:3000 \
   -e API_KEY=your_api_key_here \
   --name writing-assistant \
   ai-writing-assistant
 
 # 方式二：不注入 Key (用户需在网页设置中自行填写)
-docker run -d -p 3000:80 \
+docker run -d -p 3000:3000 \
   --name writing-assistant \
   ai-writing-assistant
 ```
