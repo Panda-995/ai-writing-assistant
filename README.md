@@ -2,7 +2,7 @@
 
 **妙笔生花** 是一款基于 Google Gemini 和 OpenAI 技术的现代化智能写作辅助工具。它能够深度分析文章内容，提供从基础纠错到逻辑重构的全方位建议，帮助创作者打磨出更优质的内容。
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
 ![React](https://img.shields.io/badge/React-18-61DAFB.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6.svg)
 ![Vite](https://img.shields.io/badge/Vite-5.0-646CFF.svg)
@@ -99,5 +99,5 @@ docker run -d -p 3000:3000 \
 
 ## 📄 开源协议
 
-本项目采用 [MIT License](LICENSE) 开源协议。
-您可以自由地使用、修改和分发本项目，但请保留版权声明。
+本项目采用 [AGPL-3.0](LICENSE) 开源协议。
+您可以自由地使用、修改和分发本项目，但请保留版权声明；若基于本项目对外提供网络服务，需同样以 AGPL-3.0 开源。
